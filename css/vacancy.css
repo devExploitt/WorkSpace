@@ -1,8 +1,8 @@
 .vacancy {
     border-radius: 16px;
-    background: aqua;
+    background: #fff;
     padding: 16px;
-    height: 100%;
+    /* height: 100%; */
     cursor: pointer;
 }
 
